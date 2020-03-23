@@ -1,3 +1,5 @@
 {
-  "origins": ["https://eternalsunshine.netlify.com/"]
+  "origins": [
+    "https://eternalsunshine.netlify.com"
+  ]
 }
